@@ -5,6 +5,6 @@ NeuroStartUp — динамически развивающийся старта�
 - Низкая цена
 
 Наш лого:
-![](logo.png)
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 # Всех приветствуем!
